@@ -1,4 +1,4 @@
-# I'm Ahram Kim. :) 👋🥰
+## Hi~ I'm Ahram Kim! :) 👋🥰
 
 
 ### ✨ About Me
