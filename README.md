@@ -1,5 +1,5 @@
-## Hi there 
-I'm Ahram Kim. :) 👋🥰
+# I'm Ahram Kim. :) 👋🥰
+
 
 ### ✨ About Me
 <br>All of my projects are available at https://github.com/byahram<br>
