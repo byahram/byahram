@@ -4,7 +4,7 @@
 ### ✨ About Me
 <br>All of my projects are available at https://github.com/byahram<br>
 <br>How to contact me, ahram0223@naver.com<br>
-<br>Please visit my blog, https://byahram.tistory.com/<br>
+<br>Please visit my blog, https://byahram.github.io//<br>
 <br>Close with me more, https://www.instagram.com/__ahram.k/<br><br>
 
 ### ⚡ My Skill Stack
