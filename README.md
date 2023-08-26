@@ -1,10 +1,4 @@
-## This is Ahram 👋🥰
-
-
-## ✨ About Me
-
-
-
+## ✨ This is Ahram 👋🥰
 
 All of my projects are available at https://github.com/byahram
 <br>
@@ -15,6 +9,8 @@ Please visit my blog, https://byahram.github.io/
 Close with me more, https://www.instagram.com/__ahram.k/
 
 <br>
+
+<hr>
 
 ## ⚡ My Skill Stack
 
@@ -42,12 +38,10 @@ Close with me more, https://www.instagram.com/__ahram.k/
 [<img src="https://custom-icon-badges.herokuapp.com/badge/SQL-282C34.svg?logo=database&logoColor=025E8C" alt="SQL logo" title="SQL" height="25" />][tech_tools_anchor]
 &nbsp;
 
-
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=007ACC" alt="Docker logo" title="Docker Code" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
-
 
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -88,18 +82,18 @@ Close with me more, https://www.instagram.com/__ahram.k/
 
 <br>
 
-## Top Repositories
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byahram&repo=byahram.github.io&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+<hr>
 
 ## Top Repositories
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=byahram&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/byahram/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byahram&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a align="left" href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=byahram&repo=byahram.github.io&theme=buefy" /></a> | <a align="right" href="https://github.com/anuraghazra/anuraghazra.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=byahram&repo=byahram.github.io&theme=buefy" /></a> |
+| ------------- | ------------- |
+
+<br>
+
+## 👁️‍🗨️  Top Repositories
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=byahram&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="byahram's github stats" /></a> | <a href="https://github.com/byahram/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byahram&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
