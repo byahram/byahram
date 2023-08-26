@@ -1,5 +1,6 @@
-## ✨ This is Ahram 👋🥰
+## <p align="center">✨ This is Ahram 👋🥰</p>
 
+<p align="center">
 All of my projects are available at https://github.com/byahram
 <br>
 How to contact me, ahram0223@naver.com
@@ -7,10 +8,9 @@ How to contact me, ahram0223@naver.com
 Please visit my blog, https://byahram.github.io/
 <br>
 Close with me more, https://www.instagram.com/__ahram.k/
+</p>
 
 <br>
-
-<hr>
 
 ## ⚡ My Skill Stack
 
@@ -82,11 +82,9 @@ Close with me more, https://www.instagram.com/__ahram.k/
 
 <br>
 
-<hr>
+<!-- ## Top Repositories
 
-## Top Repositories
-
-| <a align="left" href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=byahram&repo=byahram.github.io&theme=buefy" /></a> | <a align="right" href="https://github.com/anuraghazra/anuraghazra.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=byahram&repo=byahram.github.io&theme=buefy" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byahram&repo=byahram.github.io&theme=buefy" /></a> | <a href="https://github.com/anuraghazra/anuraghazra.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byahram&repo=byahram.github.io&theme=buefy" /></a> |
 | ------------- | ------------- |
 
 <br>
@@ -94,7 +92,7 @@ Close with me more, https://www.instagram.com/__ahram.k/
 ## 👁️‍🗨️  Top Repositories
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=byahram&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="byahram's github stats" /></a> | <a href="https://github.com/byahram/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byahram&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ------------- | ------------- | -->
 
 
 <!--
