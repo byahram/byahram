@@ -1,4 +1,4 @@
-## <p align="center">✨👋 This is Ahram 🥰✨</p>
+## <p align="center">👋 Ahram Kim 🥰</p>
 
 <p align="center">
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -9,28 +9,22 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.instagram.com/__ahram.k/"><img width="32px" alt="Instagram" title="Instagram" src="./icons/instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://github.com/byahram"><img width="32px" alt="Github" title="Github" src="./icons/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="icons/love.png"/></a>
+  <a href="#"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./icons/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="icons/linkedin.png"></a>
+  <a href="https://byahram.github.io/"><img width="32px" alt="Blog" title="Blog" src="./icons/blog.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:ahram0223@naver.com"><img width="32px" alt="Mail" title="Mail" src="./icons/mail2.png"/></a>
 </p>
-
-<div align="center">
-- All of my projects are available at [Github](https://github.com/byahram)
-
-- 📫 How to contact me, ahram0223@naver.com
-
-- Please visit my blog, https://byahram.github.io/
-
-- Close with me more, https://www.instagram.com/__ahram.k/
-</div>
 
 <br>
 
-## ⚡ My Skill Stack
+## <p align="center">⚡ My Skill Stack </p>
+
+> <h3 style="padding: 10px 0">✨  What I have expertise in</h3>
 
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -72,7 +66,7 @@
 
 <br>
 
-> 🌱  What I am currently learning / improving on
+> <h3 style="padding: 10px 0">🌱  What I am currently learning / improving on</h3>
 
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_now_anchor]
 &nbsp;
@@ -83,7 +77,7 @@
 
 <br>
 
-> 📖   What I am interested in learning at some point
+> <h3 style="padding: 10px 0">📖  What I am interested in learning at some point</h3>
 
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][learning_next_anchor]
 &nbsp;
