@@ -1,4 +1,4 @@
-## <p align="center">👋 Ahram Kim 🥰</p>
+# <p align="center">👋 Ahram Kim 🥰</p>
 
 <p align="center">
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -9,13 +9,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.instagram.com/__ahram.k/"><img width="32px" alt="Instagram" title="Instagram" src="./icons/instagram.png"/></a>
+  <a href="https://www.instagram.com/__ahram.k/" target="_blank"><img width="32px" alt="Instagram" title="Instagram" src="./icons/instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/byahram"><img width="32px" alt="Github" title="Github" src="./icons/github.png"/></a>
+  <a href="https://github.com/byahram" target="_blank"><img width="32px" alt="Github" title="Github" src="./icons/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./icons/linkedin.png"/></a>
+  <a href="#" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./icons/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://byahram.github.io/"><img width="32px" alt="Blog" title="Blog" src="./icons/blog.png"></a>
+  <a href="https://byahram.github.io/" target="_blank"><img width="32px" alt="Blog" title="Blog" src="./icons/blog.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:ahram0223@naver.com"><img width="32px" alt="Mail" title="Mail" src="./icons/mail2.png"/></a>
 </p>
