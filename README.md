@@ -1,14 +1,32 @@
-## <p align="center">✨ This is Ahram 👋🥰</p>
+## <p align="center">✨👋 This is Ahram 🥰✨</p>
 
 <p align="center">
-All of my projects are available at https://github.com/byahram
-<br>
-How to contact me, ahram0223@naver.com
-<br>
-Please visit my blog, https://byahram.github.io/
-<br>
-Close with me more, https://www.instagram.com/__ahram.k/
+    <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there!%20I'm%20Ahram%20Kim.;I'm%20a%20Junior%20Frontend%20Developer.;Always%20Learning%20New%20Things!&font=Fira%20Code&center=true&width=1000&height=50&color=000&vCenter=true&pause=1000&size=30" />
+    </a>
 </p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="icons/love.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="icons/linkedin.png"></a>
+</p>
+
+<div align="center">
+- All of my projects are available at [Github](https://github.com/byahram)
+
+- 📫 How to contact me, ahram0223@naver.com
+
+- Please visit my blog, https://byahram.github.io/
+
+- Close with me more, https://www.instagram.com/__ahram.k/
+</div>
 
 <br>
 
@@ -54,7 +72,8 @@ Close with me more, https://www.instagram.com/__ahram.k/
 
 <br>
 
-## 🌱  What I am currently learning / improving on
+> 🌱  What I am currently learning / improving on
+
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
@@ -64,7 +83,8 @@ Close with me more, https://www.instagram.com/__ahram.k/
 
 <br>
 
-## 📖   What I am interested in learning at some point
+> 📖   What I am interested in learning at some point
+
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][learning_next_anchor]
@@ -81,6 +101,7 @@ Close with me more, https://www.instagram.com/__ahram.k/
 [learning_next_anchor]: #learning-next
 
 <br>
+
 
 <!-- ## Top Repositories
 
