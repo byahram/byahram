@@ -9,15 +9,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.instagram.com/__ahram.k/" target="_blank"><img width="32px" alt="Instagram" title="Instagram" src="./icons/instagram.png"/></a>
+  <a href="https://www.instagram.com/__ahram.k/" target="_blank"><img width="32px" alt="Instagram" title="Instagram" src="./instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/byahram" target="_blank"><img width="32px" alt="Github" title="Github" src="./icons/github.png"/></a>
+  <a href="https://github.com/byahram" target="_blank"><img width="32px" alt="Github" title="Github" src="./github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./icons/linkedin.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://byahram.github.io/" target="_blank"><img width="32px" alt="Blog" title="Blog" src="./icons/blog.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:ahram0223@naver.com"><img width="32px" alt="Mail" title="Mail" src="./icons/mail2.png"/></a>
+  <a href="mailto:ahram0223@naver.com"><img width="32px" alt="Mail" title="Mail" src="./mail.png"/></a>
 </p>
 
 <br>
@@ -30,49 +26,70 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=SASS&logoColor=hotpink" alt="SASS logo" title="SASS" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
-&nbsp;
-
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Sass-282C34?logo=SASS&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Lavavel-282C34?logo=laravel&logoColor=red" alt="Lavavel logo" title="Lavavel" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=3178C6" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=3DDC84" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://custom-icon-badges.herokuapp.com/badge/SQL-282C34.svg?logo=database&logoColor=025E8C" alt="SQL logo" title="SQL" height="25" />][tech_tools_anchor]
+
+[<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D28" alt="Laravel logo" title="Laravel" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Vue-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue logo" title="Vue" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=06B6F4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=34A853" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
 &nbsp;
 
-[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=007ACC" alt="Docker logo" title="Docker Code" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker Code" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
-
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/IntelliJ-282C34?logo=intellij idea&logoColor=000000" alt="IntelliJ logo" title="IntelliJ" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Android%20Studio%20Code-282C34?logo=android-studio&logoColor=008678" alt="Android Studio Code logo" title="Android Studio Code" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Android%20Studio%20Code-282C34?logo=android-studio&logoColor=3DDC84" alt="Android Studio Code logo" title="Android Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Codepen-282C34?logo=codepen&logoColor=white" alt="Codepen logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+
+[<img src="https://custom-icon-badges.herokuapp.com/badge/MySQL-282C34.svg?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://custom-icon-badges.herokuapp.com/badge/phpMyAdmin-282C34.svg?logo=phpmyadmin&logoColor=6C78Af" alt="phpMyAdmin logo" title="phpMyAdmin" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://custom-icon-badges.herokuapp.com/badge/HeidiSQL-282C34.svg?logo=heidisql&logoColor=025E8C" alt="HeidiSQL logo" title="HeidiSQL" height="25" />][tech_tools_anchor]
+&nbsp;
+
+[<img src="https://custom-icon-badges.herokuapp.com/badge/Github-282C34.svg?logo=github&logoColor=181717" alt="Github logo" title="Github" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://custom-icon-badges.herokuapp.com/badge/GitLab-282C34.svg?logo=gitlab&logoColor=FC6D2" alt="GitLab logo" title="GitLab" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://custom-icon-badges.herokuapp.com/badge/Notion-282C34.svg?logo=notion&logoColor=000000" alt="Notion logo" title="Notion" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://custom-icon-badges.herokuapp.com/badge/Postman-282C34.svg?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
 &nbsp;
 
 <br>
 
 > <h3 style="padding: 10px 0">🌱  What I am currently learning / improving on</h3>
 
-[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_now_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Vue-282C34?logo=vue&logoColor=61DAFB" alt="Vue logo" title="Vue" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Vue-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue logo" title="Vue" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=00DC82" alt="Nuxt logo" title="Nuxt" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
 &nbsp;
 
 <br>
@@ -81,13 +98,13 @@
 
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=000000" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 
 [tech_tools_anchor]: #tech-tools
@@ -95,7 +112,6 @@
 [learning_next_anchor]: #learning-next
 
 <br>
-
 
 <!-- ## Top Repositories
 
@@ -108,7 +124,6 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=byahram&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="byahram's github stats" /></a> | <a href="https://github.com/byahram/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byahram&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | -->
-
 
 <!--
 **byahram/byahram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
