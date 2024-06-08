@@ -1,7 +1,6 @@
 # <p align="center">👋 Ahram Kim 🥰</p>
 
 <p align="center">
-    <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there!%20I'm%20Ahram%20Kim.;I'm%20a%20Junior%20Frontend%20Developer.;Always%20Learning%20New%20Things!&font=Fira%20Code&center=true&width=1000&height=50&color=000&vCenter=true&pause=1000&size=30" />
     </a>
@@ -28,35 +27,27 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=SASS&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=3DDC84" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" />][learning_now_anchor]
 &nbsp;
 
-[<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D28" alt="Laravel logo" title="Laravel" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Vue-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue logo" title="Vue" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=06B6F4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=34A853" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/GSAP-282C34?logo=GSAP&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
 &nbsp;
 
-[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker Code" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D28" alt="Laravel logo" title="Laravel" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=3DDC84" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/IntelliJ-282C34?logo=intellij idea&logoColor=000000" alt="IntelliJ logo" title="IntelliJ" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=34A853" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Android%20Studio%20Code-282C34?logo=android-studio&logoColor=3DDC84" alt="Android Studio Code logo" title="Android Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -67,14 +58,20 @@
 &nbsp;
 [<img src="https://custom-icon-badges.herokuapp.com/badge/HeidiSQL-282C34.svg?logo=heidisql&logoColor=025E8C" alt="HeidiSQL logo" title="HeidiSQL" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://custom-icon-badges.herokuapp.com/badge/Postman-282C34.svg?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
+&nbsp;
 
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker Code" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/IntelliJ-282C34?logo=intellij idea&logoColor=000000" alt="IntelliJ logo" title="IntelliJ" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://custom-icon-badges.herokuapp.com/badge/Github-282C34.svg?logo=github&logoColor=181717" alt="Github logo" title="Github" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://custom-icon-badges.herokuapp.com/badge/GitLab-282C34.svg?logo=gitlab&logoColor=FC6D2" alt="GitLab logo" title="GitLab" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://custom-icon-badges.herokuapp.com/badge/Notion-282C34.svg?logo=notion&logoColor=000000" alt="Notion logo" title="Notion" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://custom-icon-badges.herokuapp.com/badge/Postman-282C34.svg?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
 &nbsp;
 
 <br>
@@ -83,13 +80,11 @@
 
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Vue-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue logo" title="Vue" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=000000" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=00DC82" alt="Nuxt logo" title="Nuxt" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 
 <br>
@@ -98,13 +93,11 @@
 
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_now_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=000000" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
 &nbsp;
 
 [tech_tools_anchor]: #tech-tools
