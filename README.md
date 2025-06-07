@@ -1,20 +1,11 @@
 # Ahram Kim 👋
 
 I'm a frontend developer with 3 years of professional experience building responsive and user-focused web applications.  
-Currently, I'm expanding my skill set into **data analysis**, **Python**, and **AI development**, driven by a growing interest in solving real-world problems through data and automation.  
+Currently, I'm expanding my skill set into **data analysis**, **Python**, and **AI development**,
+driven by a growing interest in solving real-world problems through data and automation.  
 Also working on a full-stack side project using **Next.js** and **Supabase**.
 
 `#Attention_to_Detail`, `#Fast_Learner`, `#Problem_Solving`, `#Self_Motivated`
-
-<details>
-  <summary>소개</summary>
-
-안녕하세요. 3년간 프론트엔드 개발자로 일하며 사용자 중심의 웹 서비스를 개발해왔습니다.  
-현재는 데이터 분석과 Python 기반의 AI 개발에 흥미를 느끼며,  
-데이터와 자동화를 통해 현실 문제를 해결하는 데 관심을 가지고 학습을 이어가고 있습니다.  
-또한, Next.js와 Supabase를 활용한 프로젝트도 함께 진행 중입니다.
-
-</details>
 
 <!-- Social icons -->
 <!-- <a href="https://github.com/your-username" target="_blank">
@@ -42,10 +33,10 @@ Also working on a full-stack side project using **Next.js** and **Supabase**.
   ![Vue](https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-282C34?logo=tailwind-css&logoColor=06B6F4)
 
-- **Mobile Development** : ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-282C34?logo=java&logoColor=007396)
+<!-- - **Mobile Development** : ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-282C34?logo=java&logoColor=007396)
   ![Android](https://img.shields.io/badge/Android-282C34?logo=android&logoColor=34A853)
   ![Android Studio](https://img.shields.io/badge/Android_Studio-282C34?logo=android-studio&logoColor=3DDC84)
-  ![React Native](https://img.shields.io/badge/React_Native-282C34?logo=react&logoColor=61DAFB)
+  ![React Native](https://img.shields.io/badge/React_Native-282C34?logo=react&logoColor=61DAFB) -->
 
 - **Data Analysis & Python** : ![Python](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB)
   ![Jupyter](https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=F37626)
