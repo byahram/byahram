@@ -23,7 +23,7 @@ Also working on a full-stack side project using **Next.js** and **Supabase**.
 
 <br>
 
-## ⚡ My Stack
+## ⚡ What I Use
 
 - **Web Development** : ![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)
   ![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=css&logoColor=1572B6)
@@ -63,7 +63,7 @@ Also working on a full-stack side project using **Next.js** and **Supabase**.
 
 <br />
 
-## 🚀 Projects
+## 🚀 Recent Projects
 
 - **[In Progress] Full-Stack Web App with Next.js & Supabase**  
   Exploring authentication, real-time data, and modern frontend architecture.
@@ -73,7 +73,7 @@ Also working on a full-stack side project using **Next.js** and **Supabase**.
 
 <br />
 
-## 💻 GitHub Stats
+## 💻 My GitHub Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=byahram&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="byahram's github stats" height="192px" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byahram&layout=compact&theme=buefy&hide_border=true" height="192px" /> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
