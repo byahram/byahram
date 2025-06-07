@@ -2,12 +2,19 @@
 
 I'm a frontend developer with 3 years of professional experience building responsive and user-focused web applications.  
 Currently, I'm expanding my skill set into **data analysis**, **Python**, and **AI development**, driven by a growing interest in solving real-world problems through data and automation.  
-I'm also working on a side project using **Next.js** and **Supabase** to explore full-stack capabilities.
+Also working on a full-stack side project using **Next.js** and **Supabase**.
+
+`#Attention_to_Detail`, `#Fast_Learner`, `#Problem_Solving`, `#Self_Motivated`
+
+<details>
+  <summary>소개</summary>
 
 안녕하세요. 3년간 프론트엔드 개발자로 일하며 사용자 중심의 웹 서비스를 개발해왔습니다.  
 현재는 데이터 분석과 Python 기반의 AI 개발에 흥미를 느끼며,  
 데이터와 자동화를 통해 현실 문제를 해결하는 데 관심을 가지고 학습을 이어가고 있습니다.  
 또한, Next.js와 Supabase를 활용한 프로젝트도 함께 진행 중입니다.
+
+</details>
 
 <!-- Social icons -->
 <!-- <a href="https://github.com/your-username" target="_blank">
@@ -27,52 +34,41 @@ I'm also working on a side project using **Next.js** and **Supabase** to explore
 
 ## ⚡ My Stack
 
-### Web Development
+- **Web Development** : ![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)
+  ![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=css&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6)
+  ![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB)
+  ![Vue](https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-282C34?logo=tailwind-css&logoColor=06B6F4)
 
-![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=css&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-282C34?logo=tailwind-css&logoColor=06B6F4)
+- **Mobile Development** : ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-282C34?logo=java&logoColor=007396)
+  ![Android](https://img.shields.io/badge/Android-282C34?logo=android&logoColor=34A853)
+  ![Android Studio](https://img.shields.io/badge/Android_Studio-282C34?logo=android-studio&logoColor=3DDC84)
+  ![React Native](https://img.shields.io/badge/React_Native-282C34?logo=react&logoColor=61DAFB)
 
-<!-- ### Mobile Development
+- **Data Analysis & Python** : ![Python](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=F37626)
+  ![Pandas](https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=150458)
+  ![Numpy](https://img.shields.io/badge/Numpy-282C34?logo=numpy&logoColor=013243)
 
-![Java](https://custom-icon-badges.herokuapp.com/badge/Java-282C34?logo=java&logoColor=007396)
-![Android](https://img.shields.io/badge/Android-282C34?logo=android&logoColor=34A853)
-![Android Studio](https://img.shields.io/badge/Android_Studio-282C34?logo=android-studio&logoColor=3DDC84)
-![React Native](https://img.shields.io/badge/React_Native-282C34?logo=react&logoColor=61DAFB) -->
+- **Database & DB Tools** : ![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248)
 
-### Data Analysis & Python
-
-![Python](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB)
-![Jupyter](https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=F37626)
-![Pandas](https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=150458)
-![Numpy](https://img.shields.io/badge/Numpy-282C34?logo=numpy&logoColor=013243)
-
-### Database & DB Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717)
-![GitLab](https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26)
-![Postman](https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37)
-![VS Code](https://custom-icon-badges.herokuapp.com/badge/VS%20Code-282C34?logo=vscode&logoColor=007ACC)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-282C34?logo=intellij-idea&logoColor=000000)
+- **Development Tools** : ![Git](https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032)
+  ![GitHub](https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717)
+  ![GitLab](https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26)
+  ![Postman](https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37)
+  ![VS Code](https://custom-icon-badges.herokuapp.com/badge/VS%20Code-282C34?logo=vscode&logoColor=007ACC)
+  ![IntelliJ](https://img.shields.io/badge/IntelliJ-282C34?logo=intellij-idea&logoColor=000000)
 
 <!-- ![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED) -->
 
-### Soft Skills
-
-![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-282C34)
-![Fast Learner](https://img.shields.io/badge/Fast_Learner-282C34)
-![Problem-Solving](https://img.shields.io/badge/Problem_Solving-282C34)
-![Self-Motivated](https://img.shields.io/badge/Self_Motivated-282C34)
+- **Currently Interested In** : ![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=000000)
+  ![Supabase](https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3ECF8E)
+  ![Python](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB)
+  ![AI](https://img.shields.io/badge/AI-282C34)
+  ![Data Engineering](https://img.shields.io/badge/Data_Engineering-282C34)
 
 <br />
 
@@ -81,18 +77,8 @@ I'm also working on a side project using **Next.js** and **Supabase** to explore
 - **[In Progress] Full-Stack Web App with Next.js & Supabase**  
   Exploring authentication, real-time data, and modern frontend architecture.
 
-- **Learning: Python for Data Analysis**  
+- **[Learning]: Python for Data Analysis**  
   Studying pandas, numpy, and Jupyter to handle and visualize real-world datasets.
-
-<br />
-
-## 🔍 Currently Interested In
-
-![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=000000)
-![Supabase](https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3ECF8E)
-![Python](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB)
-![AI](https://img.shields.io/badge/AI-282C34)
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-282C34)
 
 <br />
 
