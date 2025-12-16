@@ -66,7 +66,7 @@ With 3 years of web dev background, I bridge the gap between
 <br />
 
 <div align="center">
-  <b>Thanks for visiting! Feel free to connect or explore my work!</b>
+  <h3><b>Thanks for visiting! Feel free to connect or explore my work!</b></h3>
 </div>
 
 <!-- <div align="center">
