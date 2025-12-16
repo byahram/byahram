@@ -37,15 +37,9 @@ With 3 years of web dev background, I bridge the gap between
 <br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="550">
-        🌱 <b>Focusing on</b>: NLP, LLM Application, RAG, Multi-modal <br/>
-        🛠 <b>Strong at</b>: End-to-End Development, Serving (FastAPI), MLOps <br/>
-        🚀 <b>Goal</b>: 사용자에게 닿을 수 있는 <b>실용적인 AI 서비스</b> 구현
-      </td>
-    </tr>
-  </table>
+  🌱 <b>Focusing on</b>: NLP, LLM Application, RAG, Multi-modal <br/>
+  🛠 <b>Strong at</b>: End-to-End Dev, Serving (FastAPI), MLOps Basics <br/>
+  🚀 <b>Goal</b>: 사용자에게 닿을 수 있는 <b>실용적인 AI 서비스</b> 구현
 </div>
 
 </div>
