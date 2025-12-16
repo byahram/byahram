@@ -1,97 +1,78 @@
-# Ahram Kim 👋
+<div align="center">
+  <h1>Hi there, I'm Ahram Kim! 👋</h1>
+  <h3>🚀 AI/NLP Engineer</h3>
+  
+  <b>"Building practical AI solutions with solid web engineering experience."</b>
+  <br/>
+  웹 서비스 개발 경험을 바탕으로, 
+  <br/>
+  <b>실제 동작하는 AI 서비스</b>를 구축하는 엔지니어입니다.
+  <br/>
+  <br/>
 
-I’m a frontend developer with 3 years of professional experience building responsive, user-focused web applications.
+`#End_to_End` `#NLP_Engineer`
+<br/>
 
-Currently, I’m focusing on **Python**, **data analysis**, and **AI development**,
+`#Attention_to_Detail` `#Fast_Learner` `#Problem_Solving` `#Self_Motivated`
 
-driven by a passion for solving real-world problems through data and automation.
+<br/>
+<br/>
 
-`#Attention_to_Detail`, `#Fast_Learner`, `#Problem_Solving`, `#Self_Motivated`
+<!-- <a href="mailto:ahram0223@naver.com"><img src="https://img.shields.io/badge/Email-ahram%40naver.com-00C73C?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="포트폴리오_주소"><img src="https://img.shields.io/badge/Portfolio-Check%20Now-3776AB?style=flat-square&logo=notion&logoColor=white"/></a>
+<br/>
+<br/> -->
 
-<!-- <br/>
+I specialize in **NLP, RAG, and Multi-modal Deep Learning**.
+<br/>
+With 3 years of web dev background, I bridge the gap between
+<br/>
+**AI Models (PyTorch/LLM)** and **User Services (FastAPI/Web)**.
 
-<a href="https://github.com/your-username" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logoColor=white" height="25" />
-</a>
-<a href="https://www.instagram.com/your-username" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white" height="25" />
-</a>
-<a href="https://www.linkedin.com/in/your-username" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" height="25" />
-</a>
-<a href="https://your-portfolio.com" target="_blank">
-  <img alt="Website" src="https://img.shields.io/badge/Website-24292e?style=for-the-badge&logoColor=white" height="25" />
-</a> -->
+<br/>
 
-<br>
+웹 개발자로 쌓은 안정적인 서비스 구축 경험을 바탕으로,
+<br/>
+단순한 모델링을 넘어 <b>비즈니스 가치를 창출하는 AI 솔루션</b>을 만드는 데 집중하고 있습니다.
+<br/>
+현재는 <b>NLP, RAG(검색 증강 생성), 멀티모달</b> 기술을 활용하여 문제를 해결하는 것에 관심을 두고 있습니다.
 
-## ⚡ What I Use
+<br/>
 
-- **Web Development** :
-  ![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)
-  ![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=css&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6)
-  ![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB)
-  ![Vue](https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D)
-  ![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=000000)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-282C34?logo=tailwind-css&logoColor=06B6F4)
+  <div align="left" style="display: inline-block; text-align: left; margin: 0 auto; max-width: 600px;">
+    <ul>
+      <li>🌱 <b>Focusing on</b>: NLP, LLM Application, RAG, Multi-modal Deep Learning</li>
+      <li>🛠 <b>Strong at</b>: End-to-End Development, Model Serving (FastAPI), MLOps Basics</li>
+      <li>🚀 <b>Goal</b>: 사용자에게 닿을 수 있는 <b>실용적인 AI 서비스</b> 구현</li>
+    </ul>
+  </div>
+</div>
 
-<!-- - **Mobile Development** : ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-282C34?logo=java&logoColor=007396)
-  ![Android](https://img.shields.io/badge/Android-282C34?logo=android&logoColor=34A853)
-  ![Android Studio](https://img.shields.io/badge/Android_Studio-282C34?logo=android-studio&logoColor=3DDC84)
-  ![React Native](https://img.shields.io/badge/React_Native-282C34?logo=react&logoColor=61DAFB) -->
+<br/>
+<br/>
 
-- **Data Analysis & Python** :
-  ![Python](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=F37626)
-  ![Pandas](https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=150458)
-  ![Numpy](https://img.shields.io/badge/Numpy-282C34?logo=numpy&logoColor=013243)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-282C34?logo=plotly&logoColor=3f4f75)
-  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-282C34?logo=scikitlearn&logoColor=F7931E)
+## 🛠️ Tech Stacks
 
-- **Database & DB Tools** :
-  ![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1)
-  ![Supabase](https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3ECF8E)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248)
+| **Category**      | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AI & NLP**      | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) |
+| **Data & ML**     | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)                                                                                                       |
+| **Serving & Ops** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)                                                                                                                 |
+| **Web Interface** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)                                                                                                                                                                                        |
 
-- **Development Tools** :
-  ![Git](https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032)
-  ![GitHub](https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717)
-  ![GitLab](https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26)
-  ![Postman](https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37)
-  ![VS Code](https://custom-icon-badges.herokuapp.com/badge/VS%20Code-282C34?logo=vscode&logoColor=007ACC)
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ-282C34?logo=intellij-idea&logoColor=000000)
+<br/>
 
-<!-- ![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED) -->
-
-- **Currently Interested In** :
-
-  ![Python](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB)
-  ![AI](https://img.shields.io/badge/AI-282C34)
-  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-282C34)
-  ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-282C34)
-
-<br />
-
-## 🚀 Recent Work
-
-- **Python for Data Analysis**  
-  Learning and applying pandas, numpy, and Jupyter to analyze and visualize datasets.
-
-- **AI & Machine Learning Practice**  
-  Building small projects and experiments with scikit-learn and ML pipelines.
-
-- **Frontend Projects**  
-  Past experience includes building responsive React applications integrated with REST APIs.
-
-<br />
-
-## 💻 My GitHub Stats
+## 📈 GitHub Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=byahram&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="byahram's github stats" height="192px" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byahram&layout=compact&theme=buefy&hide_border=true" height="192px" /> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-### Thanks for visiting! Feel free to connect or explore my work!
-
 <br />
+
+<div align="center">
+  <b>Thanks for visiting! Feel free to connect or explore my work!</b>
+</div>
+
+<!-- <div align="center">
+  <b>Thanks for visiting! Please check my <a href="포트폴리오_주소">Portfolio</a> for more details.</b>
+</div> -->
