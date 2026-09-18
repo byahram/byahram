@@ -1,0 +1,288 @@
+name: Update GitHub Gists
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 매일 한국시간 오전 9시
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: read
+
+jobs:
+  update-gists:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update GitHub Stats and Productive Time
+        uses: actions/github-script@v8
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # Ahram's GitHub Stats
+          STATS_GIST_ID: 1c540ff69241982304ca329fdb9e6bb7
+          STATS_FILENAME: github-stats.txt
+
+          # I'm a night
+          TIME_GIST_ID: 4410415819b5422e33056285ecfc901a
+          TIME_FILENAME: productive-box.txt
+
+        with:
+          github-token: ${{ secrets.GH_TOKEN }}
+          script: |
+            const token = process.env.GH_TOKEN;
+
+            const headers = {
+              Authorization: `Bearer ${token}`,
+              Accept: "application/vnd.github+json",
+              "X-GitHub-Api-Version": "2022-11-28",
+            };
+
+            async function githubRequest(url, options = {}) {
+              const response = await fetch(url, {
+                ...options,
+                headers: {
+                  ...headers,
+                  ...(options.headers || {}),
+                },
+              });
+
+              if (!response.ok) {
+                const body = await response.text();
+                throw new Error(
+                  `${response.status} ${response.statusText}: ${body}`
+                );
+              }
+
+              return response.json();
+            }
+
+            // --------------------------------------------------
+            // 1. 로그인 사용자 확인
+            // --------------------------------------------------
+
+            const me = await githubRequest("https://api.github.com/user");
+            const username = me.login;
+
+            console.log(`Updating stats for ${username}`);
+
+            // --------------------------------------------------
+            // 2. GraphQL 데이터 수집
+            // --------------------------------------------------
+
+            const query = `
+              query($login: String!) {
+                user(login: $login) {
+                  repositories(
+                    first: 100
+                    ownerAffiliations: OWNER
+                    privacy: PUBLIC
+                  ) {
+                    nodes {
+                      stargazerCount
+                    }
+                  }
+
+                  pullRequests {
+                    totalCount
+                  }
+
+                  issues {
+                    totalCount
+                  }
+
+                  repositoriesContributedTo(
+                    first: 1
+                    contributionTypes: [
+                      COMMIT
+                      ISSUE
+                      PULL_REQUEST
+                      REPOSITORY
+                      PULL_REQUEST_REVIEW
+                    ]
+                  ) {
+                    totalCount
+                  }
+
+                  contributionsCollection {
+                    totalCommitContributions
+
+                    commitContributionsByRepository(maxRepositories: 100) {
+                      repository {
+                        nameWithOwner
+                        isPrivate
+                      }
+
+                      contributions(first: 100) {
+                        nodes {
+                          occurredAt
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            `;
+
+            const graphqlResponse = await fetch(
+              "https://api.github.com/graphql",
+              {
+                method: "POST",
+                headers: {
+                  ...headers,
+                  "Content-Type": "application/json",
+                },
+                body: JSON.stringify({
+                  query,
+                  variables: {
+                    login: username,
+                  },
+                }),
+              }
+            );
+
+            if (!graphqlResponse.ok) {
+              throw new Error(await graphqlResponse.text());
+            }
+
+            const result = await graphqlResponse.json();
+
+            if (result.errors) {
+              throw new Error(JSON.stringify(result.errors));
+            }
+
+            const user = result.data.user;
+
+            // --------------------------------------------------
+            // 3. Stats 계산
+            // --------------------------------------------------
+
+            const stars = user.repositories.nodes.reduce(
+              (sum, repo) => sum + repo.stargazerCount,
+              0
+            );
+
+            const commits =
+              user.contributionsCollection.totalCommitContributions;
+
+            const prs = user.pullRequests.totalCount;
+            const issues = user.issues.totalCount;
+
+            const contributed =
+              user.repositoriesContributedTo.totalCount;
+
+            const statsContent = [
+              `⭐   Total Stars:          ${stars.toLocaleString()}`,
+              `➕   Total Commits:        ${commits.toLocaleString()}`,
+              `🔀   Total PRs:            ${prs.toLocaleString()}`,
+              `🚩   Total Issues:         ${issues.toLocaleString()}`,
+              `📦   Contributed to:       ${contributed.toLocaleString()}`,
+            ].join("\n");
+
+            // --------------------------------------------------
+            // 4. 시간대별 Commit 계산
+            // --------------------------------------------------
+
+            const buckets = {
+              Morning: 0,
+              Daytime: 0,
+              Evening: 0,
+              Night: 0,
+            };
+
+            const repos =
+              user.contributionsCollection
+                .commitContributionsByRepository;
+
+            for (const repo of repos) {
+              for (const contribution of repo.contributions.nodes) {
+                const date = new Date(contribution.occurredAt);
+
+                // UTC -> KST
+                const hour = Number(
+                  new Intl.DateTimeFormat("en-US", {
+                    timeZone: "Asia/Seoul",
+                    hour: "2-digit",
+                    hour12: false,
+                  }).format(date)
+                );
+
+                if (hour >= 6 && hour < 12) {
+                  buckets.Morning++;
+                } else if (hour >= 12 && hour < 18) {
+                  buckets.Daytime++;
+                } else if (hour >= 18 && hour < 24) {
+                  buckets.Evening++;
+                } else {
+                  buckets.Night++;
+                }
+              }
+            }
+
+            const total =
+              buckets.Morning +
+              buckets.Daytime +
+              buckets.Evening +
+              buckets.Night;
+
+            function bar(value) {
+              if (total === 0) return "░".repeat(20);
+
+              const length = 20;
+              const filled = Math.round((value / total) * length);
+
+              return "█".repeat(filled) +
+                     "░".repeat(length - filled);
+            }
+
+            function percent(value) {
+              if (total === 0) return "0.0";
+              return ((value / total) * 100).toFixed(1);
+            }
+
+            const timeContent = [
+              `🌞 Morning   ${String(buckets.Morning).padStart(4)} commits  ${bar(buckets.Morning)}  ${percent(buckets.Morning)}%`,
+              `🌆 Daytime   ${String(buckets.Daytime).padStart(4)} commits  ${bar(buckets.Daytime)}  ${percent(buckets.Daytime)}%`,
+              `🌃 Evening   ${String(buckets.Evening).padStart(4)} commits  ${bar(buckets.Evening)}  ${percent(buckets.Evening)}%`,
+              `🌙 Night     ${String(buckets.Night).padStart(4)} commits  ${bar(buckets.Night)}  ${percent(buckets.Night)}%`,
+            ].join("\n");
+
+            // --------------------------------------------------
+            // 5. Gist 업데이트
+            // --------------------------------------------------
+
+            async function updateGist(gistId, filename, content) {
+              await githubRequest(
+                `https://api.github.com/gists/${gistId}`,
+                {
+                  method: "PATCH",
+                  headers: {
+                    "Content-Type": "application/json",
+                  },
+                  body: JSON.stringify({
+                    files: {
+                      [filename]: {
+                        content,
+                      },
+                    },
+                  }),
+                }
+              );
+
+              console.log(`Updated ${gistId}/${filename}`);
+            }
+
+            await updateGist(
+              process.env.STATS_GIST_ID,
+              process.env.STATS_FILENAME,
+              statsContent
+            );
+
+            await updateGist(
+              process.env.TIME_GIST_ID,
+              process.env.TIME_FILENAME,
+              timeContent
+            );
+
+            console.log(statsContent);
+            console.log(timeContent);
