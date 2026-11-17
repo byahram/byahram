@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""christmas_tree.py - ASCII 크리스마스 트리 + 좌측 상단 ASCII 인물 초상 (1080x1340, 30fps)
+"""christmas_tree.py - ASCII 크리스마스 트리 + 좌측 상단 ASCII 인물 초상 (1960x1340, 30fps)
 
 사용법:  python christmas_tree.py --photo me.jpg --out christmas_tree.mp4
 python christmas_tree.py --photo me.jpg --still 12.5     (한 장만 PNG로 저장)
@@ -11,7 +11,8 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageChops
 
 # ───────────────────────────── 설정 ─────────────────────────────
 
-W, H, FPS, DUR = 1080, 1920, 30, 13.0
+W, H, FPS, DUR = 1960, 1920, 30, 13.0
+SCENE_X = (W - 1080) // 2            # 트리 크기는 유지하고 기존 장면을 가로 중앙에 배치
 SCENE_H = 1340                       # ASCII 장면 높이
 H = SCENE_H                         # 패널 복원 시 이 줄을 주석 처리하면 H=1920으로 복귀
 TITLE = ""                           # 코드 패널 위 큰 제목 ("" 이면 생략)
@@ -62,7 +63,7 @@ def bounce(p):                        # 0..1 통통 튀며 착지
 
 # ───────────────────────────── 트리 ─────────────────────────────
 
-CX, Y_TOP, TREE_H, R_BASE = 560, 335, 775, 330
+CX, Y_TOP, TREE_H, R_BASE = W // 2, 335, 775, 330
 T_BUILD = 4.6
 LEAF = np.array(list("xo*#%&WM@=+-~^v"))
 
@@ -116,20 +117,20 @@ GIFTS = []                             # (중심x, 열, 행, 상자색, 리본�
 for i, (gx, c, r, col, rib) in enumerate([(262, 10, 6, (225, 50, 60), GOLD), (372, 7, 5, (170, 90, 230), WHITE),
 (742, 8, 5, (70, 130, 240), WHITE), (852, 7, 8, (235, 235, 240), (225, 50, 60)),
 (640, 6, 4, (225, 50, 60), WHITE)]):
-    GIFTS.append((gx, c, r, col, rib, 6.0 + 0.35 * i, np.array(list("x*o%#&"))[rng.integers(0, 6, (r, c))]))
+    GIFTS.append((gx + SCENE_X, c, r, col, rib, 6.0 + 0.35 * i, np.array(list("x*o%#&"))[rng.integers(0, 6, (r, c))]))
 
-NS = 230                               # 눈
+NS = round(230 * W / 1080)              # 캔버스 전체에 기존 밀도로 눈을 배치
 snow_x, snow_y = rng.random(NS) * W, rng.random(NS) * SCENE_H
 snow_v, snow_w = rng.uniform(25, 90, NS), rng.uniform(0.5, 2.0, NS)
 snow_ch = np.array(list("*+.·"))[rng.integers(0, 4, NS)]
 
-BURSTS = [(t0, x, y, c, rng.random(70) * TAU, rng.uniform(40, 150, 70))    # 불꽃
+BURSTS = [(t0, x + SCENE_X, y, c, rng.random(70) * TAU, rng.uniform(40, 150, 70))    # 불꽃
 for t0, x, y, c in [(10.0, 845, 380, (190, 120, 255)), (10.7, 760, 300, (80, 230, 200)),
 (11.4, 880, 520, (255, 120, 190)), (12.1, 800, 400, (255, 200, 60))]]
 
 # ───────────────────────────── 초상 ─────────────────────────────
 
-PX, PY, PR_ = 292, 565, 200            # 원 중심과 반지름
+PX, PY, PR_ = 292 + SCENE_X, 565, 200            # 원 중심과 반지름
 PCW, PLH, PFS = 7.2, 13, 12            # 초상 글자 칸 크기
 PC, PRW = int(2 * PR_ / PCW), int(2 * PR_ / PLH)
 RAMP = " .:-~=+xoK#%&$WM@"
@@ -378,11 +379,11 @@ def render(t, face, hat):
 
     # HUD
     f16 = font(16)
-    d.text((920, 250), f"t {t:5.2f}s", font=f16, fill=(200, 180, 120), anchor="ra")
+    d.text((920 + SCENE_X, 250), f"t {t:5.2f}s", font=f16, fill=(200, 180, 120), anchor="ra")
     hud = [HANDLE] * bool(HANDLE) + [f"rotation {math.degrees(rot) % 360:6.2f}°", f"lights   {lights}",
                                      f"letters  {letters:,}"]
     for i, s in enumerate(hud):
-        d.text((70, 1196 + i * 20), s, font=f16, fill=(120, 126, 150))
+        d.text((70 + SCENE_X, 1196 + i * 20), s, font=f16, fill=(120, 126, 150))
 
     # 번짐(글로우)
     scene = img.crop((0, 0, W, SCENE_H))
