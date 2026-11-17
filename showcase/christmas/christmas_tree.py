@@ -327,14 +327,14 @@ def render(t, face, hat):
 
     # 인사말
     if t > 8.0:
-        n, f22 = int((t - 8.0) * 22), font(22)
+        n, f22 = int((t - 8.0) * 22), font(32)
         x = W / 2 - d.textlength(GREETING, font=f22) / 2
         for wi, word in enumerate(GREETING.split("   ")):
             wl = d.textlength(word, font=f22)
             c = [(90, 220, 130), (235, 70, 80), GOLD][wi % 3]
             if n > 0:
-                d.rectangle((x - 10, 1270, x + wl + 10, 1304), fill=tuple(v // 6 for v in c))
-                d.text((x, 1274), word[:n], font=f22, fill=c)
+                d.rectangle((x - 12, 1260, x + wl + 12, 1310), fill=tuple(v // 6 for v in c))
+                d.text((x, 1265), word[:n], font=f22, fill=c)
             n -= len(word) + 3
             x += wl + d.textlength("   ", font=f22)
 
@@ -379,11 +379,11 @@ def render(t, face, hat):
 
     # HUD
     f16 = font(16)
-    d.text((920 + SCENE_X, 250), f"t {t:5.2f}s", font=f16, fill=(200, 180, 120), anchor="ra")
+    d.text((W - 50, 50), f"t {t:5.2f}s", font=f16, fill=(200, 180, 120), anchor="rt")
     hud = [HANDLE] * bool(HANDLE) + [f"rotation {math.degrees(rot) % 360:6.2f}°", f"lights   {lights}",
                                      f"letters  {letters:,}"]
     for i, s in enumerate(hud):
-        d.text((70 + SCENE_X, 1196 + i * 20), s, font=f16, fill=(120, 126, 150))
+        d.text((50, SCENE_H - 50 - (len(hud) - 1 - i) * 20), s, font=f16, fill=(120, 126, 150))
 
     # 번짐(글로우)
     scene = img.crop((0, 0, W, SCENE_H))
